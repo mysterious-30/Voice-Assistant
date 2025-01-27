@@ -8,7 +8,6 @@ import asyncio
 # Assigning Variables
 API_ID = 23915082
 API_HASH = 'a00045e3df8dd8b92f2699b6d6a14157'
-PHONE_NUMBER = '+916306476385'  # Your phone number with country code
 CONTACTS_FILE_PATH = "D:/Jarvis/Data/telegram.json"  # Path to your contacts file
 
 # Initialize the Telegram client
@@ -63,7 +62,7 @@ async def telegram_msg(query):
 
 # Main entry point to run the client
 async def main():
-    await client.start(PHONE_NUMBER)  # Start the client with the phone number
+    await client.start()  # Start the client with the phone number
     test_query = "Akash : If You Have Received this message then the admin has successfully configured the bot"
     await telegram_msg(test_query)
 
