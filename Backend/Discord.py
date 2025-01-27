@@ -5,7 +5,7 @@ import re
 import json
 
 # Assigning Variables
-TOKEN = "NDk3OTkwOTkyMjk3NzIxODY4.G5Egrp.CLWwhmtwRxwoR3i0kUCRXYen1ZrWMLL44RVEls"
+TOKEN = "Your_Discord_Token"
 SERVER_ID = "@me"
 DISCORD_API_URL = "https://discord.com/api/v9/channels/{channel_id}/messages"
 CONTACTS_FILE_PATH = "D:/Jarvis/Data/discord.json"
