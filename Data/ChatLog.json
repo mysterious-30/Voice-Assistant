@@ -1,0 +1,642 @@
+[
+    {
+        "role": "user",
+        "content": "How are you doing?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing great, thanks for asking! I'm ready to assist you with any questions or tasks you may have."
+    },
+    {
+        "role": "user",
+        "content": "Okay main generate kar di but mujhe dikhaya nahin hai aisa kyon."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're saying that you've generated something, but it's not being displayed. Without more context, it's hard to say exactly what's going on. Can you please provide more information about what you're trying to generate and what platform or tool you're using?"
+    },
+    {
+        "role": "user",
+        "content": "How are you doing?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing great, thanks!"
+    },
+    {
+        "role": "user",
+        "content": "Okay hello jarvis are you listening to me."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, I'm listening to you!"
+    },
+    {
+        "role": "user",
+        "content": "How are you doing today?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing fantastic, thanks for asking!"
+    },
+    {
+        "role": "user",
+        "content": "Tell me the current weather in prayagraj."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the current information, the weather in Prayagraj is 54\u00b0F, as of 9:36 PM."
+    },
+    {
+        "role": "user",
+        "content": "What is the weather in prayagraj?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, the current weather in Prayagraj is partly cloudy with a temperature of 18\u00b0C, and a low of 8\u00b0C, with a 2% chance of precipitation."
+    },
+    {
+        "role": "user",
+        "content": "Bye jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye!"
+    },
+    {
+        "role": "user",
+        "content": "How one i will get you?"
+    },
+    {
+        "role": "assistant",
+        "content": "You can get me anytime you want, I'll be here, ready to assist you!"
+    },
+    {
+        "role": "user",
+        "content": "what is the current stock price of audcad"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I don't have the current stock price of AUDCAD as the search results were empty. However, I can suggest checking a financial website or a reliable source for the most up-to-date information on the current stock price of AUDCAD."
+    },
+    {
+        "role": "user",
+        "content": "Current Price Of Nifty 50 Index"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but the search results for the current price of Nifty 50 Index were empty."
+    },
+    {
+        "role": "user",
+        "content": "Current Price Of Nifty 50 Index"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I don't have the current price of Nifty 50 Index as the search results were empty. However, I can suggest checking a financial website or a reliable source for the most up-to-date information on the current price of Nifty 50 Index."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "what is the current price of NIfty 50 INdex ?!"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but the search results are empty, and I couldn't find the current price of Nifty 50 Index."
+    },
+    {
+        "role": "user",
+        "content": "what is the current price of NIfty 50 INdex ?!"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but the search results didn't provide the current price of Nifty 50 Index."
+    },
+    {
+        "role": "user",
+        "content": "what is the current price of NIfty 50 Index ?!"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but the search results are empty, and I couldn't find the current price of Nifty 50 Index."
+    },
+    {
+        "role": "user",
+        "content": "what is the current price of NIfty 50 INdex ?!"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but the search results didn't provide the current price of Nifty 50 Index."
+    },
+    {
+        "role": "user",
+        "content": "& d:/Jarvis/.venv/Scripts/python.exe d:/Jarvis/Backend/RealtimeSearchEngine.py"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're trying to run a Python script for a Realtime Search Engine."
+    },
+    {
+        "role": "user",
+        "content": "what is the current price of NIfty 50 INdex ?!"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I don't have the current price of Nifty 50 Index as the search results were empty."
+    },
+    {
+        "role": "user",
+        "content": "what is the current price of NIfty 50 INdex ?!"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I don't have the current price of Nifty 50 Index as the search results were empty."
+    },
+    {
+        "role": "user",
+        "content": "& d:/Jarvis/.venv/Scripts/python.exe d:/Jarvis/Backend/Search_Engine.py"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're trying to run a Python script for a Search Engine."
+    },
+    {
+        "role": "user",
+        "content": "& d:/Jarvis/.venv/Scripts/python.exe d:/Jarvis/Backend/RealtimeSearchEngine.py"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're trying to run a Python script for a Realtime Search Engine."
+    },
+    {
+        "role": "user",
+        "content": "suv price"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, here are some SUV prices:\n\n* Hyundai Creta: Rs. 11.11 Lakh\n* Mahindra Scorpio N: Rs. 13.99 Lakh\n* Honda Elevate: Rs. 11.73 Lakh\n* Maruti Grand Vitara: Rs. 10.88 Lakh\n* Tata Punch: Rs. 6.13 - 10.32 Lakh\n* Toyota Fortuner: Rs. 33.78 - ..."
+    },
+    {
+        "role": "user",
+        "content": "nifty 50 index price"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, the current price of Nifty 50 Index is 23,203.20, with a change of -108.60 (-0.47%)."
+    },
+    {
+        "role": "user",
+        "content": "ok& d:/Jarvis/.venv/Scripts/python.exe d:/Jarvis/Backend/RealtimeSearchEngine.py"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're trying to run a Python script for a Realtime Search Engine."
+    },
+    {
+        "role": "user",
+        "content": "Nifty 50 index price"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, the current price of Nifty 50 Index is 23,203.20, with a change of -108.60 (-0.47%)."
+    },
+    {
+        "role": "user",
+        "content": "Nifty 50 Current price"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Nifty 50 Index is not available as the search results were empty."
+    },
+    {
+        "role": "user",
+        "content": "& d:/Jarvis/.venv/Scripts/python.exe d:/Jarvis/Backend/RealtimeSearchEngine.py"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're trying to run a Python script for a Realtime Search Engine."
+    },
+    {
+        "role": "user",
+        "content": "sleep_interval"
+    },
+    {
+        "role": "assistant",
+        "content": "[start][end]"
+    },
+    {
+        "role": "user",
+        "content": "& d:/Jarvis/.venv/Scripts/python.exe d:/Jarvis/Backend/RealtimeSearchEngine.py"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're trying to run a Python script for a Realtime Search Engine."
+    },
+    {
+        "role": "user",
+        "content": "NIfty 50 index price"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Nifty 50 Index is not available as the search results were empty."
+    },
+    {
+        "role": "user",
+        "content": "Hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "check"
+    },
+    {
+        "role": "assistant",
+        "content": "[start][end]"
+    },
+    {
+        "role": "user",
+        "content": "Hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "bruh"
+    },
+    {
+        "role": "assistant",
+        "content": "[start][end]"
+    },
+    {
+        "role": "user",
+        "content": "helo'"
+    },
+    {
+        "role": "assistant",
+        "content": "The search results for 'helo' are: [start][end]"
+    },
+    {
+        "role": "user",
+        "content": "sdfghjk"
+    },
+    {
+        "role": "assistant",
+        "content": "The search results for 'sdfghjk' are: [start][end]"
+    },
+    {
+        "role": "user",
+        "content": "Nifty 50 Index price"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Nifty 50 Index is not available as the search results were empty."
+    },
+    {
+        "role": "user",
+        "content": "ifty 50 index price"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Nifty 50 Index is not available as the search results were empty."
+    },
+    {
+        "role": "user",
+        "content": "current price of nifty 50 index"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Nifty 50 Index is not available as the search results were empty."
+    },
+    {
+        "role": "user",
+        "content": "& d:/Jarvis/.venv/Scripts/python.exe d:/Jarvis/Backend/testing.py"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're trying to run a Python script for testing."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "nifty 50 index current price"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Nifty 50 Index is not available as the search results were empty."
+    },
+    {
+        "role": "user",
+        "content": "nifty 50 index current price"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Nifty 50 Index is not available as the search results were empty."
+    },
+    {
+        "role": "user",
+        "content": "nifty 50 index current price"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Nifty 50 Index is not available as the search results were empty."
+    },
+    {
+        "role": "user",
+        "content": "& d:/Jarvis/.venv/Scripts/python.exe d:/Jarvis/Backend/Search_Engine.py"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're trying to run a Python script for a Search Engine."
+    },
+    {
+        "role": "user",
+        "content": "nifty 50 index current price"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Nifty 50 Index is not available as the search results were empty."
+    },
+    {
+        "role": "user",
+        "content": "nifty 50 index current price"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Nifty 50 Index is 23,203.20."
+    },
+    {
+        "role": "user",
+        "content": "NIfty 50 current price"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Nifty 50 Index is 23,203.20."
+    },
+    {
+        "role": "user",
+        "content": "AudCad current price"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but the search results are empty, and I couldn't find the current price of AUDCAD."
+    },
+    {
+        "role": "user",
+        "content": "AUDCAD current price"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but the search results are empty, and I couldn't find the current price of AUDCAD."
+    },
+    {
+        "role": "user",
+        "content": "nifty 50 current price"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Nifty 50 Index is 23,203.20."
+    },
+    {
+        "role": "user",
+        "content": "bank nifty current price"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but the search results are empty, and I couldn't find the current price of Bank Nifty."
+    },
+    {
+        "role": "user",
+        "content": "AUDCAD current price"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but the search results are empty, and I couldn't find the current price of AUDCAD."
+    },
+    {
+        "role": "user",
+        "content": "NIfty 50 current price"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Nifty 50 Index is 23,203.20."
+    },
+    {
+        "role": "user",
+        "content": "AUDCAD current price"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but the search results are empty, and I couldn't find the current price of AUDCAD."
+    },
+    {
+        "role": "user",
+        "content": "AUDCAD live exchange rate"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but the search results are empty, and I couldn't find the current live exchange rate of AUDCAD."
+    },
+    {
+        "role": "user",
+        "content": "AUDCAD live exchange rate"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but the search results are empty, and I couldn't find the current live exchange rate of AUDCAD."
+    },
+    {
+        "role": "user",
+        "content": "AUDCAD live exchange rate"
+    },
+    {
+        "role": "assistant",
+        "content": "The current AUDCAD live exchange rate is 0.89461 CAD."
+    },
+    {
+        "role": "user",
+        "content": "AUDCAD Current Price"
+    },
+    {
+        "role": "assistant",
+        "content": "The current AUDCAD exchange rate is 0.89640 CAD."
+    },
+    {
+        "role": "user",
+        "content": "AUDCAD current price"
+    },
+    {
+        "role": "assistant",
+        "content": "The current AUDCAD exchange rate is 0.89640 CAD."
+    },
+    {
+        "role": "user",
+        "content": "banknifty current price"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Bank Nifty is 48,041.25."
+    },
+    {
+        "role": "user",
+        "content": "Current Price Of Bank Nifty Index In Stock Market"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Bank Nifty Index is 48,041.25."
+    },
+    {
+        "role": "user",
+        "content": "what is the time right now "
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 07:24:35 on Sunday, January 19, 2025."
+    },
+    {
+        "role": "user",
+        "content": "How To Boil a water"
+    },
+    {
+        "role": "assistant",
+        "content": "The search results for 'How To Boil a water' are: [start][end]"
+    },
+    {
+        "role": "user",
+        "content": "india next criket match"
+    },
+    {
+        "role": "assistant",
+        "content": "The search results for 'India next cricket match' are: [start][end]"
+    },
+    {
+        "role": "user",
+        "content": "Hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Bank nifty index price NSE"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Bank Nifty Index is 48,041.25."
+    },
+    {
+        "role": "user",
+        "content": "Bank Nifty Current PRice !!!"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Bank Nifty Index is 48,041.25."
+    },
+    {
+        "role": "user",
+        "content": "audcad price now"
+    },
+    {
+        "role": "assistant",
+        "content": "The current AUDCAD exchange rate is 0.89640 CAD."
+    },
+    {
+        "role": "user",
+        "content": "stock prize of google"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but the search results are empty, and I couldn't find the current stock price of Google."
+    },
+    {
+        "role": "user",
+        "content": "Price OF current iphone 15 pro"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but the search results are empty, and I couldn't find the current price of iPhone 15 Pro."
+    },
+    {
+        "role": "user",
+        "content": "Bank Nifty Current PRice !!!"
+    },
+    {
+        "role": "assistant",
+        "content": "The current price of Bank Nifty Index is 48,041.25."
+    },
+    {
+        "role": "user",
+        "content": "Best Python libraries for web scraping"
+    },
+    {
+        "role": "assistant",
+        "content": "The search results for 'Best Python libraries for web scraping' are:\n\n1. Beautiful Soup\n2. Scrapy\n3. Selenium\n4. Requests\n5. Playwright\n6. ZenRows\n7. urllib3\n\nThese libraries are popular and widely used for web scraping in Python."
+    },
+    {
+        "role": "user",
+        "content": "Upcoming Marvel movies in 2025."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, here are the upcoming Marvel movies in 2025:\n\n1. Captain America: Brave New World - February 14, 2025\n2. Thunderbolts - May 2, 2025\n3. The Fantastic Four - July 25, 2025\n\nPlease note that the release dates and titles are subject to change."
+    },
+    {
+        "role": "user",
+        "content": "Upcoming Marvel movies in 2025."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, here are the upcoming Marvel movies in 2025:\n\n1. Captain America: Brave New World - February 14, 2025\n2. Thunderbolts - May 2, 2025\n3. The Fantastic Four - July 25, 2025\n\nPlease note that the release dates and titles are subject to change."
+    },
+    {
+        "role": "user",
+        "content": "Best video games released in 2024."
+    },
+    {
+        "role": "assistant",
+        "content": "The search results for 'Best video games released in 2024' are: [start][end]"
+    },
+    {
+        "role": "user",
+        "content": "Top-rated Netflix series to watch."
+    },
+    {
+        "role": "assistant",
+        "content": "The search results for 'Top-rated Netflix series to watch' are: [start][end]"
+    },
+    {
+        "role": "user",
+        "content": "what is the current news on NEws 24"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, here are the current news headlines on News24:\n\n1. Top Stories - News24\n2. News24 Top Stories\n3. Latest News, Breaking News, Top News Headlines ...\n4. India News | Today's latest updates and ...\n5. South Africa News | News24\n\nPlease note that the news headlines are subject to change and may not be up-to-date."
+    },
+    {
+        "role": "user",
+        "content": "is quotex ban in india"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, Quotex is banned by the Reserve Bank of India (RBI) and is not authorized to operate in India."
+    }
+]
